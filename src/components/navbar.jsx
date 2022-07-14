@@ -7,7 +7,7 @@ const NavBar = ({ totalCounters }) => {
   return (
     <nav className="navbar navbar-light bg-dark text-white">
       <div className="container">
-        NavBar{''}
+        Counter App{''}
         <span className="badge badge-pill badge-primary ">{totalCounters}</span>
         <a className="navbar-brand" href="#"></a>
       </div>
