@@ -15,7 +15,7 @@ class Counter extends Component {
     console.log('Counter - Rendered');
     return (
       <div>
-        <input type="text" />
+        <input placeholder="Label name" type="text" />
         <span className={this.getBadgeClasses()}>{this.formatCount()}</span>
         <button
           onClick={() => this.props.onIncrement(this.props.counter)}
