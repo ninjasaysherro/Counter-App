@@ -1,4 +1,4 @@
-#Counter-App
+<h1>Counter App</h1>
 
 This is my first project that I've built using React. 
 I watched and coded along a video tutorial by Mosh Hamedani, where he explains the process of building this counter app for beginners.
